@@ -5,10 +5,10 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        String pathinput ="C:/Users/hp/IdeaProjects/untitled/src/TP11/Ex1/input.txt";
-        String pathdata ="C:/Users/hp/IdeaProjects/untitled/src/TP11/Ex1/data.csv";
-        //String pathinput ="C:/Users/hp/IdeaProjects/untitled/src/TP11/Ex1/input.txt";
-        //String pathinput ="C:/Users/hp/IdeaProjects/untitled/src/TP11/Ex1/input.txt";
+        String pathinput ="C:/Users/hp/IdeaProjects/untitled/src/TP11/AnnotationsLab.Ex1/input.txt";
+        String pathdata ="C:/Users/hp/IdeaProjects/untitled/src/TP11/AnnotationsLab.Ex1/data.csv";
+        //String pathinput ="C:/Users/hp/IdeaProjects/untitled/src/TP11/AnnotationsLab.Ex1/input.txt";
+        //String pathinput ="C:/Users/hp/IdeaProjects/untitled/src/TP11/AnnotationsLab.Ex1/input.txt";
         try {
             // Lecture fichier
             System.out.println("=== Lecture input.txt ===");
