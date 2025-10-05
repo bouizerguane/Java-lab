@@ -1,0 +1,4 @@
+Bonjour, ceci est la première ligne.
+Voici la deuxième ligne.
+Et enfin, la troisième ligne.
+Nombre total de lignes copiées : 3
